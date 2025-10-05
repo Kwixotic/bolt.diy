@@ -25,6 +25,7 @@ dist-ssr
 /.history
 /.cache
 /build
+public/build
 functions/build/
 .env.local
 .env
